@@ -1,2 +1,2 @@
 ### Hellooo
-I listen to alot of Juice WRLD
+I listen to a lot of Juice WRLD
