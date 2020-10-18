@@ -11,7 +11,6 @@ I listen to a lot of Juice WRLD
 <img align="left" alt="Elian0213's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Elian0213&show_icons=true&hide_border=true" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elian0213&show_icons=true&hide_border=true" />
 
-
 <a href="https://github.com/Elian0213">
   <img src="https://komarev.com/ghpvc/?username=Elian0213&style=flat-square" />
 </a>
