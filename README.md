@@ -12,7 +12,7 @@ I listen to a lot of Juice WRLD
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elian0213&show_icons=true&hide_border=true" />
 
 <a href="https://github.com/Elian0213">
-  <img src="https://komarev.com/ghpvc/?username=Elian0213&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=Elian0213&style=flat-square&color=red" />
 </a>
 <a href="https://github.com/Elian0213">
   <img src="https://img.shields.io/github/followers/Elian0213?style=social" />
