@@ -1,5 +1,5 @@
 ### Hellooo
-I listen to a lot of Juice WRLD
+I make things for fun
 
 <p align="center">
   <a href="https://discord.com/users/579634300824059919" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
