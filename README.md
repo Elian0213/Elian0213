@@ -4,20 +4,16 @@
 I'm Elian, a 22-year-old nerd who moonlights as a keyboard tickler. Based in the Netherlands.
 </p>
 
-<p align="center">
+<p style="text-align: center">
   <img src="https://komarev.com/ghpvc/?username=elian0213&label=Profile%20views&color=0e75b6&style=flat" alt="elian0213" />
 </p>
 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
 <h3 align="center">💻 Technologies I work with:</h3>
 
 <!-- Languages -->
 <section>
-  <h4>Languages:</h4>
+  <h4 style="text-align: center">Languages:</h4>
   <p align="center">
     <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> &nbsp;
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> &nbsp;
@@ -32,7 +28,7 @@ I'm Elian, a 22-year-old nerd who moonlights as a keyboard tickler. Based in the
 
 <!-- Frameworks -->
 <section>
-  <h4>Frameworks:</h4>
+  <h4 style="text-align: center">Frameworks:</h4>
   <p align="center">
     <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>  &nbsp;
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>  &nbsp;
@@ -42,7 +38,7 @@ I'm Elian, a 22-year-old nerd who moonlights as a keyboard tickler. Based in the
 
 <!-- Databases -->
 <section>
-  <h4>Data managemnt</h4>
+  <h4 style="text-align: center">Data managemnt</h4>
   <p align="center">
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> &nbsp;
     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> &nbsp; 
