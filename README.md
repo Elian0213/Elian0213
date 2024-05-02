@@ -28,7 +28,7 @@ I'm Elian, a 22-year-old nerd who moonlights as a keyboard tickler. Based in the
 
 <!-- Frameworks -->
 <section>
-  <h4 style="text-align: center">Frameworks:</h4>
+  <h4 align="center">Frameworks:</h4>
   <p align="center">
     <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>  &nbsp;
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>  &nbsp;
@@ -38,7 +38,7 @@ I'm Elian, a 22-year-old nerd who moonlights as a keyboard tickler. Based in the
 
 <!-- Databases -->
 <section>
-  <h4 style="text-align: center">Data managemnt</h4>
+  <h4 align="center">Data managemnt</h4>
   <p align="center">
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> &nbsp;
     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> &nbsp; 
