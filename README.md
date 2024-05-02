@@ -1,13 +1,14 @@
 <h1 align="center">👋 Heyo, I'm Elian 👽</h1>
-<h3 align="center">You stalking?</h3>
-<p>
+<p align="center">
 I'm Elian, a 22-year-old nerd who moonlights as a keyboard tickler. Based in the Netherlands.
 </p>
-
+<br />
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=elian0213&label=Profile%20views&color=0e75b6&style=flat" alt="elian0213" />
 </p>
 
+<br />
+<br />
 
 <h3 align="center">💻 Technologies I work with:</h3>
 
