@@ -4,7 +4,7 @@
 I'm Elian, a 22-year-old nerd who moonlights as a keyboard tickler. Based in the Netherlands.
 </p>
 
-<p style="text-align: center">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=elian0213&label=Profile%20views&color=0e75b6&style=flat" alt="elian0213" />
 </p>
 
