@@ -8,7 +8,6 @@ I'm Elian, a 22-year-old nerd who moonlights as a keyboard tickler. Based in the
 </p>
 
 <br />
-<br />
 
 <h3 align="center">💻 Technologies I work with:</h3>
 
