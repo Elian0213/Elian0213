@@ -1,6 +1,6 @@
 <h1 align="center">👋 Heyo, I'm Elian 👽</h1>
 <p align="center">
-I'm Elian, a 22-year-old nerd who moonlights as a keyboard tickler. Based in the Netherlands.
+I'm Elian, a nerd who moonlights as a keyboard tickler. Based in the Netherlands.
 </p>
 <br />
 <p align="center">
